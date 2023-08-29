@@ -1,0 +1,244 @@
+    1  cd
+    2  sudo apt update
+    3  sudo dpkg --configure -a
+    4  dpkg -l
+    5  cd 
+    6  ls
+    7  dpkg --conffigure -a
+    8  dpkg --help
+    9  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   10  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   11  cd
+   12  ls
+   13  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   14  sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
+   15  sudo apt-get install -f
+   16  google-chrome
+   17  sudo vi /etc/gdm3/custom.conf
+   18  google-chrome
+   19  fg 1
+   20  fg 2
+   21  google-chrome
+   22  ls
+   23  sudo apt install  google-chrome-stable_current_amd64.deb
+   24  sudo apt install  ./google-chrome-stable_current_amd64.deb
+   25  ls
+   26  cd Загрузки/
+   27  ды
+   28  ls
+   29  sudo apt-get install  ./google-chrome-stable_current_amd64.deb
+   30  google-chrome-stable
+   31  ls
+   32  django -V
+   33  python -V
+   34  python -m django -V
+   35  pip install django
+   36  python -m django -V
+   37  python -m django --version
+   38  django-admin startproject mysite
+   39  ls
+   40  cd mysie
+   41  cd mysite
+   42  ls
+   43  python manage.py startapp accounts .
+   44  python manage.py startapp klient .
+   45  ls
+   46  cd ..
+   47  ls
+   48  cat main.py
+   49  ls
+   50  rm -rf mysite/
+   51  ls
+   52  django-admin startproject mysite .
+   53  ls
+   54  python manage.py startapp klient
+   55  ls
+   56  cd
+   57  ls
+   58  sudo apt install chromium-browser
+   59  chromium-browser google.com
+   60  chromium-browser google.com &
+   61  nautilus
+   62  jobs
+   63  ls
+   64  touch start_server.py
+   65  vi start_server.py 
+   66  python start_server.py 
+   67  python3 start_server.py 
+   68  python3 -m http.server --cgi
+   69  ls
+   70  curl https://vc.ru/dev/311818-menedzher-konteksta-with-v-python > test
+   71  ls
+   72  cat test
+   73  del test
+   74  ls
+   75  rm test
+   76  ls
+   77  cd
+   78  lsb_release -a
+   79  sudo apt update
+   80  apt list --upgradable
+   81  sudo apt install curl
+   82  curl
+   83  curl https://gnu.org
+   84  curl 'https://www.dns-shop.ru/catalog/17a9c05d16404e77/shashlychnicy/' --compressed -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8' -H 'Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3' -H 'Accept-Encoding: gzip, deflate, br' -H 'Referer: https://www.dns-shop.ru/' -H 'DNT: 1' -H 'Upgrade-Insecure-Requests: 1' -H 'Sec-Fetch-Dest: document' -H 'Sec-Fetch-Mode: navigate' -H 'Sec-Fetch-Site: same-origin' -H 'Sec-Fetch-User: ?1' -H 'Connection: keep-alive' -H 'Cookie: current_path=08c9d87755f1af2a02102c80d2feab2f188cee484f417036d00220a30c5f152ca%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22current_path%22%3Bi%3A1%3Bs%3A132%3A%22%7B%22city%22%3A%22884019c7-cf52-11de-b72b-00151716f9f5%22%2C%22cityName%22%3A%22%5Cu041a%5Cu0440%5Cu0430%5Cu0441%5Cu043d%5Cu043e%5Cu0434%5Cu0430%5Cu0440%22%2C%22method%22%3A%22geoip%22%7D%22%3B%7D; _gcl_au=1.1.2103154191.1692208628; phonesIdent=338c03121ec0b9d36219058b957d434d311e2ed89a4f37559af05d9988fe8c47a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22phonesIdent%22%3Bi%3A1%3Bs%3A36%3A%2273b786f5-d25d-4a5b-8138-0e02278ed26b%22%3B%7D; rrpvid=318947622709202; cartUserCookieIdent_v3=2d564bd86255fec53c7ab129eeb0b679eb44827145a3faeb0d06c4087d013178a%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v3%22%3Bi%3A1%3Bs%3A36%3A%22a068252a-fc82-32ae-805c-f4d1c58e7ef6%22%3B%7D; _ga_FLS4JETDHW=GS1.1.1692960147.2.1.1692960154.53.0.0; _ga=GA1.2.1204301614.1692208629; rcuid=64dd0df438694c4cfd6b68fc; tmr_lvid=893042aa114abdd6436486f2b12947de; tmr_lvidTS=1692208631322; _ab_=%7B%22search-sandbox%22%3A%22default%22%2C%22catalog-hit-filter%22%3A%22favorites_analog_default%22%7D; qrator_jsr=1692960142.759.zvYFHqk3lY2XMECa-jp9sgk5speqbq6m3i766f08q82hdfabt-00; qrator_ssid=1692960143.581.UjpfeMKQcelIKkOy-d0p79ch554rgcs4lu6bvmfs1tbkr5pr5; qrator_jsid=1692960142.759.zvYFHqk3lY2XMECa-3mo32qopafhfn6kfcucfat1uonf3qocf; lang=ru; city_path=krasnodar; PHPSESSID=f286688a6e83220c4eb95b4b2daa1b6d; _csrf=bfd017dca1e365131156a1724f4e023af6f3b119d7a6a9c27a9d332f0cbbc76ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2270uRqliddmb65swlqZbFNoYKQjQk2rwU%22%3B%7D; _gid=GA1.2.1203109078.1692960157; tmr_detect=0%7C1692960158325' >> test2
+   85  cat test2 
+   86  cd
+   87  python3
+   88  sudo apt install idle-python3.10 -y
+   89  idle
+   90  vim sl_id
+   91  touch my.txt
+   92  ls
+   93  sudo apt install idle-python3.10 
+   94  ls
+   95  cat my.txt 
+   96  vim my.txt 
+   97  python
+   98  python3
+   99  ls
+  100  cd сайт4/
+  101  cd slovari/
+  102  ls
+  103  python sl_id
+  104  python3 sl_id
+  105  ды
+  106  ls
+  107  cat sl_id 
+  108  ip addr
+  109  сcd etc
+  110  cd etc
+  111  cd /etc
+  112  ls
+  113  cd /var
+  114  ls
+  115  cd opt
+  116  ls
+  117  cd ..
+  118  ls
+  119  cd www
+  120  cd /etc
+  121  ls
+  122  cat hosts
+  123  cd
+  124  touch famili_list.txt
+  125  echo "# myzakaz" >> README.md
+  126  ls
+  127  mkdir myzakaz
+  128  cd myzakaz/
+  129  ls
+  130  cd ..
+  131  ls
+  132  git init
+  133  sudo apt install git
+  134  git init
+  135  git add README.md
+  136  git commit -m "first commit"
+  137  git config --global user.email "azhalkov@yandex.ru"
+  138  git config --global user.name "azhalkov"
+  139  git branch -M main
+  140  git remote add origin https://github.com/azhalkov/myzakaz.git
+  141  git push -u origin main
+  142  cd myzakaz/
+  143  git push -u origin main
+  144  git remote add origin https://github.com/azhalkov/myzakaz.git
+  145  git branch -M main
+  146  git push -u origin main
+  147  cd
+  148  shutter -s
+  149  cd
+  150  ls
+  151  sudo apt update
+  152  apt list --upgradable
+  153  sudo apt upgrade
+  154  sudo apt update
+  155  sudo apt upgrade
+  156  sudo add-apt-repository ppa:linuxuprising/shutter
+  157  sudo apt-get update
+  158  sudo apt install shutter
+  159  sudo apt install gnome-web-photo
+  160  apt-secure --help
+  161  sudo apt-get install libimage-exiftool-perl
+  162  shutter -a
+  163  св
+  164  cd
+  165  sudo apt show telegram-desktop
+  166  sudo apt update
+  167  sudo apt install telegram-desktop
+  168  mkdir mysite
+  169  cd mysite
+  170  python3
+    
+  171  python3.10 -m venv venv  ошибка venv не создан
+  
+  172  apt install python3.10-venv
+  173  sudo apt install python3.10-venv
+  174  source venv/bin/activate
+  175  python3.10 -m venv venv
+  176  ls
+  177  source venv/bin/activate
+  178  pip install django
+  179  python -m pip install -e django/
+  180  django --version
+  181  python -m pip install Django
+  182  python 
+  183  python -m django --version
+  184  django-admin startproject myzakaz
+  185  ls
+  186  cd myzakaz
+  187  ls
+  188  python manage.py runserver
+  189  ls
+  190  cd ..
+  191  ls
+  192  cd myzakaz
+
+  201  python manage.py startapp klient
+  ______________________________________________________________________
+  abstractUser  https://docs.djangoproject.com/en/4.2/topics/auth/customizing/
+  Замена пользовательской Userмодели ¶
+Некоторые виды проектов могут иметь требования к аутентификации, для которых встроенная Userмодель Django не всегда подходит. Например, на некоторых сайтах имеет смысл использовать адрес электронной почты в качестве идентификационного токена вместо имени пользователя.
+
+Django позволяет переопределить модель пользователя по умолчанию, указав значение параметра AUTH_USER_MODEL, ссылающееся на пользовательскую модель:
+
+AUTH_USER_MODEL = "myapp.MyUser"
+Эта пунктирная пара описывает labelприложение Django (которое должно быть в вашем файле INSTALLED_APPS) и имя модели Django, которую вы хотите использовать в качестве пользовательской модели.
+
+Использование пользовательской модели пользователя при запуске проекта ¶
+Если вы начинаете новый проект, настоятельно рекомендуется настроить собственную модель пользователя, даже если Userвам достаточно модели по умолчанию. Эта модель ведет себя идентично пользовательской модели по умолчанию, но вы сможете настроить ее в будущем, если возникнет необходимость:
+
+from django.contrib.auth.models import AbstractUser
+
+
+class User(AbstractUser):
+    pass
+Не забудьте указать AUTH_USER_MODELна это. Сделайте это перед созданием каких-либо миграций или первым запуском.manage.py migrate
+
+Также зарегистрируйте модель в приложении admin.py:
+
+from django.contrib import admin
+from django.contrib.auth.admin import UserAdmin
+from .models import User
+
+admin.site.register(User, UserAdmin)
+  
+  _______________________________________________________________________
+  202  ls
+  203  ls klient
+  204  deactivate
+  205  exit
+  206  ls
+  207  cd myzakaz/
+  208  ls
+  209  ./manage.py makemigrations klient
+  210  ./manage.py migrate
+  211  ./manage.py runserver
+  212  ды
+  213  ls
+  214  python manage.py shell
+  215  ls
+  216  ./manage.py createsuperuser
+  217  ./manage.py runserver
+  218  history
+  219  ls
+  220  history >> comand.txt
