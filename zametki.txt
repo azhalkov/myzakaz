@@ -1,1 +1,2 @@
 настройка почты для сайта
+файл settings в папке myzakaz/myzakaz
