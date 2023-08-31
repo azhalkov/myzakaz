@@ -12,4 +12,4 @@ class UserForm(forms.ModelForm):
 
     class Meta:
         model = User
-        fields = ("phone", "username")
+        fields = ("phone", "username")  # '__all__'
