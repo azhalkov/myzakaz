@@ -1,5 +1,5 @@
 from django import forms
-from klient.models import User
+from . models import User
 
 
 class UserForm(forms.ModelForm):
@@ -13,3 +13,4 @@ class UserForm(forms.ModelForm):
     class Meta:
         model = User
         fields = ("phone", "username")  # '__all__'
+

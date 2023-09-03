@@ -1,8 +1,8 @@
 # klient/admin
-
-
-from klient.models import User
 from django.contrib import admin
+# from klient.models import User
+from .models import User
+# from django.conf import settings
 
 
 @admin.register(User)
